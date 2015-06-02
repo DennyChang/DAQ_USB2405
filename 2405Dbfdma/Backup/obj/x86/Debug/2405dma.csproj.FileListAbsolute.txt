@@ -1,0 +1,7 @@
+C:\ADLINK\UDASK\samples\2405\C#\2405Dbfdma\Backup\bin\x86\Debug\2405dma.exe
+C:\ADLINK\UDASK\samples\2405\C#\2405Dbfdma\Backup\bin\x86\Debug\2405dma.pdb
+C:\ADLINK\UDASK\samples\2405\C#\2405Dbfdma\Backup\obj\x86\Debug\_405dma.Form1.resources
+C:\ADLINK\UDASK\samples\2405\C#\2405Dbfdma\Backup\obj\x86\Debug\_405dma.Properties.Resources.resources
+C:\ADLINK\UDASK\samples\2405\C#\2405Dbfdma\Backup\obj\x86\Debug\2405dma.csproj.GenerateResource.Cache
+C:\ADLINK\UDASK\samples\2405\C#\2405Dbfdma\Backup\obj\x86\Debug\2405dma.exe
+C:\ADLINK\UDASK\samples\2405\C#\2405Dbfdma\Backup\obj\x86\Debug\2405dma.pdb
